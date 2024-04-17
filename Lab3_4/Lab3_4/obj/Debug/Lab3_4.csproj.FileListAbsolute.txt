@@ -1,0 +1,9 @@
+C:\Users\Tran Van Thai\source\repos\Lab3_4\Lab3_4\bin\Debug\Lab3_4.exe.config
+C:\Users\Tran Van Thai\source\repos\Lab3_4\Lab3_4\bin\Debug\Lab3_4.exe
+C:\Users\Tran Van Thai\source\repos\Lab3_4\Lab3_4\bin\Debug\Lab3_4.pdb
+C:\Users\Tran Van Thai\source\repos\Lab3_4\Lab3_4\obj\Debug\Lab3_4.csproj.AssemblyReference.cache
+C:\Users\Tran Van Thai\source\repos\Lab3_4\Lab3_4\obj\Debug\Lab3_4.ProjectInstaller.resources
+C:\Users\Tran Van Thai\source\repos\Lab3_4\Lab3_4\obj\Debug\Lab3_4.csproj.GenerateResource.cache
+C:\Users\Tran Van Thai\source\repos\Lab3_4\Lab3_4\obj\Debug\Lab3_4.csproj.CoreCompileInputs.cache
+C:\Users\Tran Van Thai\source\repos\Lab3_4\Lab3_4\obj\Debug\Lab3_4.exe
+C:\Users\Tran Van Thai\source\repos\Lab3_4\Lab3_4\obj\Debug\Lab3_4.pdb

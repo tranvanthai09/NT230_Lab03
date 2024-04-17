@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tran Van Thai\\source\\repos\\Lab3_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7E99C1-6A07-48C6-9CDD-9951D2CF34AB}|Lab3_4\\Lab3_4.csproj|c:\\users\\tran van thai\\source\\repos\\lab3_4\\lab3_4\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD7E99C1-6A07-48C6-9CDD-9951D2CF34AB}|Lab3_4\\Lab3_4.csproj|solutionrelative:lab3_4\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7E99C1-6A07-48C6-9CDD-9951D2CF34AB}|Lab3_4\\Lab3_4.csproj|C:\\Users\\Tran Van Thai\\source\\repos\\Lab3_4\\lab3_4\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD7E99C1-6A07-48C6-9CDD-9951D2CF34AB}|Lab3_4\\Lab3_4.csproj|solutionrelative:lab3_4\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7E99C1-6A07-48C6-9CDD-9951D2CF34AB}|Lab3_4\\Lab3_4.csproj|C:\\Users\\Tran Van Thai\\source\\repos\\Lab3_4\\lab3_4\\projectinstaller.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD7E99C1-6A07-48C6-9CDD-9951D2CF34AB}|Lab3_4\\Lab3_4.csproj|solutionrelative:lab3_4\\projectinstaller.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7E99C1-6A07-48C6-9CDD-9951D2CF34AB}|Lab3_4\\Lab3_4.csproj|C:\\Users\\Tran Van Thai\\source\\repos\\Lab3_4\\lab3_4\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD7E99C1-6A07-48C6-9CDD-9951D2CF34AB}|Lab3_4\\Lab3_4.csproj|solutionrelative:lab3_4\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7E99C1-6A07-48C6-9CDD-9951D2CF34AB}|Lab3_4\\Lab3_4.csproj|C:\\Users\\Tran Van Thai\\source\\repos\\Lab3_4\\lab3_4\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD7E99C1-6A07-48C6-9CDD-9951D2CF34AB}|Lab3_4\\Lab3_4.csproj|solutionrelative:lab3_4\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Service1.cs",
+              "DocumentMoniker": "C:\\Users\\Tran Van Thai\\source\\repos\\Lab3_4\\Lab3_4\\Service1.cs",
+              "RelativeDocumentMoniker": "Lab3_4\\Service1.cs",
+              "ToolTip": "C:\\Users\\Tran Van Thai\\source\\repos\\Lab3_4\\Lab3_4\\Service1.cs",
+              "RelativeToolTip": "Lab3_4\\Service1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAEIAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T08:49:35.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectInstaller.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Tran Van Thai\\source\\repos\\Lab3_4\\Lab3_4\\ProjectInstaller.Designer.cs",
+              "RelativeDocumentMoniker": "Lab3_4\\ProjectInstaller.Designer.cs",
+              "ToolTip": "C:\\Users\\Tran Van Thai\\source\\repos\\Lab3_4\\Lab3_4\\ProjectInstaller.Designer.cs",
+              "RelativeToolTip": "Lab3_4\\ProjectInstaller.Designer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T08:46:48.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\Tran Van Thai\\source\\repos\\Lab3_4\\Lab3_4\\ProjectInstaller.cs",
+              "RelativeDocumentMoniker": "Lab3_4\\ProjectInstaller.cs",
+              "ToolTip": "C:\\Users\\Tran Van Thai\\source\\repos\\Lab3_4\\Lab3_4\\ProjectInstaller.cs",
+              "RelativeToolTip": "Lab3_4\\ProjectInstaller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T08:46:30.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectInstaller.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tran Van Thai\\source\\repos\\Lab3_4\\Lab3_4\\ProjectInstaller.cs",
+              "RelativeDocumentMoniker": "Lab3_4\\ProjectInstaller.cs",
+              "ToolTip": "C:\\Users\\Tran Van Thai\\source\\repos\\Lab3_4\\Lab3_4\\ProjectInstaller.cs [Design]",
+              "RelativeToolTip": "Lab3_4\\ProjectInstaller.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T08:43:31.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Service1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tran Van Thai\\source\\repos\\Lab3_4\\Lab3_4\\Service1.cs",
+              "RelativeDocumentMoniker": "Lab3_4\\Service1.cs",
+              "ToolTip": "C:\\Users\\Tran Van Thai\\source\\repos\\Lab3_4\\Lab3_4\\Service1.cs [Design]",
+              "RelativeToolTip": "Lab3_4\\Service1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T08:41:22.632Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
